@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.7132769457592923,
+  "macro_f1": 0.2516316251146407,
+  "weighted_f1": 0.6323255505604416,
+  "baseline_accuracy": 0.6939713876634035,
+  "svd_explained_variance": 0.958613249303173
+}

@@ -1,0 +1,21 @@
+column,missing_count,missing_percent
+connected_handling_time,85665,99.72
+Customer_City,68828,80.12
+Product_category,68711,79.98
+Item_price,68701,79.97
+order_date_time,68693,79.96
+Customer Remarks,57165,66.54
+Order_id,18232,21.22
+Unique id,0,0.0
+Sub-category,0,0.0
+category,0,0.0
+channel_name,0,0.0
+Issue_reported at,0,0.0
+issue_responded,0,0.0
+Survey_response_Date,0,0.0
+Agent_name,0,0.0
+Supervisor,0,0.0
+Manager,0,0.0
+Tenure Bucket,0,0.0
+Agent Shift,0,0.0
+CSAT Score,0,0.0

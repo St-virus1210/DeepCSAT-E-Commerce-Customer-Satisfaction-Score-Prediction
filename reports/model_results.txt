@@ -1,0 +1,10 @@
+Shopzilla CSAT ANN — Test Results
+
+Accuracy: 0.7133
+Macro-F1: 0.2516
+Weighted-F1: 0.6323
+Majority baseline accuracy: 0.6940
+SVD explained variance: 0.9586
+
+Interpretation:
+The target is strongly imbalanced. The model improves on the majority baseline in test accuracy, but minority CSAT categories remain challenging. Macro-F1 should be used with accuracy when discussing model quality.

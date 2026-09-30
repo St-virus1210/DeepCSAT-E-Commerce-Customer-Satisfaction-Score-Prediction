@@ -1,0 +1,44 @@
+{
+  "cat_cols": [
+    "channel_name",
+    "category",
+    "Sub-category",
+    "Customer_City",
+    "Product_category",
+    "Agent_name",
+    "Supervisor",
+    "Manager",
+    "Tenure Bucket",
+    "Agent Shift"
+  ],
+  "num_cols": [
+    "response_minutes",
+    "order_to_issue_hours",
+    "issue_hour",
+    "issue_dayofweek",
+    "issue_is_weekend",
+    "issue_day",
+    "issue_month",
+    "issue_hour_sin",
+    "issue_hour_cos",
+    "Item_price",
+    "Item_price_missing",
+    "connected_handling_time",
+    "connected_handling_time_missing",
+    "remark_missing",
+    "remark_chars",
+    "remark_words",
+    "remark_exclaim",
+    "remark_question",
+    "remark_pos",
+    "remark_neg"
+  ],
+  "svd_components": 128,
+  "classes": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}
